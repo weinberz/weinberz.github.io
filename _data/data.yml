@@ -1,0 +1,82 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Zara Weinberg
+    tagline: Cell Biologist/Micorscopist
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: weinberz@gmail.com
+    website:
+    linkedin:
+    github: weinberz
+    twitter:
+    googlescholar: 7CpvunwAAAAJ
+
+    interests:
+      - item: GPCR Biology
+        link:
+
+      - item: Membrane Trafficking
+        link:
+
+      - item: Computational Image Analysis
+        link:
+
+career-profile:
+    title: About Me
+    summary: |
+      Cell biologist studying the interplay of trafficking and signaling of G protein-coupled receptors using live cell microscopy. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
+
+education:
+    - degree: PhD in Biological Sciences
+      university: Carnegie Mellon University, Pittsburgh PA
+      time: 2013 - 2017
+      advisor: Manojkumar A. Puthenveedu
+      details:
+
+    - degree: BA in Psychology
+      university: Reed College, Portland OR
+      time: 2007 - 2011
+      advisor: Paul J. Currie
+      details:
+
+experiences:
+    - role: Postdoctoral Scholar
+      time: 2017 - Present
+      company: University of Michigan, Ann Arbor MI
+      details: |
+        - Developed technique for measuring GPCR exocytosis using live cell microscopy, and automated image analysis with machine learning deployed in MATLAB and Python.
+        - Collected live cell imaging data for 2 collaborators, and trained a collaborator to perform microscopy experiments
+        - Significant mentorship of 5 PhD, 1 Masters, and 3 Undergraduate students
+
+    - role: PhD Candidate
+      time: 2013 - 2017
+      company: Carnegie Mellon University, Pittsburgh PA
+      details: |
+        - Demonstrated that opioid receptors signal from endocytic domains after activation using total internal fluorescence microscopy, fluorescent biosensors, automated image analysis in ImageJ and MATLAB, and immunoblotting
+        - Discovered distinct protein mediators of adrenergic receptor endocytosis and signaling
+
+    - role: IT Resident
+      time: 2011 - 2013
+      company: Google Inc., Mountain View CA
+      details: |
+        - Tech support generalist – Hardware, Networking, macOS, Windows, and Linux
+        - Provided excellent customer service as recognized by peer bonus system 40 times
+        - Operations rotation with corporate infrastructure SRE – automated server provisioning, maintenance, and monitoring using shell scripting, Python, and Ganeti
+        - Communicated technical issues throughout the support organization through drafting and editing of regular newsletter and technical explainers
+
+publications:
+    title: Publications
+    intro: |
+      <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=0000-0001-7176-038X%5Bauid%5D+OR+weinberg+zy%5Bau%5D">Pubmed</a><br/>
+      <a href="https://scholar.google.com/citations?user=7CpvunwAAAAJ">Google Scholar</a>
+
+footer: >
+    Adapted from <a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank" rel="nofollow">Orbit</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated April 2019

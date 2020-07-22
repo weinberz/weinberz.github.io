@@ -20,10 +20,13 @@ sidebar:
     googlescholar: 7CpvunwAAAAJ
 
     interests:
-      - item: GPCR Biology
+      - item: Cellular Perception
         link:
 
-      - item: Membrane Trafficking
+      - item: Synthetic Biology
+        link:
+
+      - item: Quantitative Biology
         link:
 
       - item: Computational Image Analysis
@@ -32,7 +35,28 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Cell biologist studying the interplay of trafficking and signaling of G protein-coupled receptors using live cell microscopy. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
+      Cell biologist studying how cells perceive their environemtns and respond with discrete behaviors. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
+
+research:
+    title: Research
+    intro: |
+      Our cells have have a limited number of tools to sense their environment,
+      but they have to be capable of responding to a practically unlimited number of
+      environmental signals. I study how cells decode different signals acting on the
+      same machinery to produce distinct behaviors. Currently, I use the convergent
+      signaling molecule cyclic AMP to study this, but in the past I have also used
+      G protein-coupled receptors.
+
+    projects:
+      - title: Endocytic dwell time of the µ opioid receptor regulates signaling in a ligand depdenent manner
+        graphic: molpharm-summary.png
+        summary: |
+          this is some text
+
+      - title: Recycling transmembrane cargoes produce heterogeneous exocytic events
+        graphic: assets/molpharm-summary.png
+        summary: |
+          this is some text
 
 education:
     - degree: PhD in Biological Sciences
@@ -49,8 +73,14 @@ education:
 
 experiences:
     - role: Postdoctoral Scholar
+      time: 2020 - Present
+      company: El-Samad Lab, University California San Francisco, San Francisco CA
+      details: |
+        - Synthetic biology approaches to sensing and manipulating cell signaling
+
+    - role: Postdoctoral Scholar
       time: 2017 - Present
-      company: University of Michigan, Ann Arbor MI
+      company: Puthenveedu Lab, University of Michigan, Ann Arbor MI
       details: |
         - Developed technique for measuring GPCR exocytosis using live cell microscopy, and automated image analysis with machine learning deployed in MATLAB and Python.
         - Collected live cell imaging data for 2 collaborators, and trained a collaborator to perform microscopy experiments
@@ -58,7 +88,7 @@ experiences:
 
     - role: PhD Candidate
       time: 2013 - 2017
-      company: Carnegie Mellon University, Pittsburgh PA
+      company: Puthenveedu Lab, Carnegie Mellon University, Pittsburgh PA
       details: |
         - Demonstrated that opioid receptors signal from endocytic domains after activation using total internal fluorescence microscopy, fluorescent biosensors, automated image analysis in ImageJ and MATLAB, and immunoblotting
         - Discovered distinct protein mediators of adrenergic receptor endocytosis and signaling
@@ -79,4 +109,4 @@ publications:
       <a href="https://scholar.google.com/citations?user=7CpvunwAAAAJ">Google Scholar</a>
 
 footer: >
-    Adapted from <a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank" rel="nofollow">Orbit</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated April 2019
+    Adapted from <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> by me, available <a href="https://github.com/weinberz/weinberz.github.io">here</a>. Updated April 2019

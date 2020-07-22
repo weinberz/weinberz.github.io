@@ -51,12 +51,12 @@ research:
       - title: Endocytic dwell time of the µ opioid receptor regulates signaling in a ligand depdenent manner
         graphic: molpharm-summary.png
         summary: |
-          this is some text
-
-      - title: Recycling transmembrane cargoes produce heterogeneous exocytic events
-        graphic: assets/molpharm-summary.png
-        summary: |
-          this is some text
+          The µ opiod receptor (µOR) is the target of drugs like morphine and heroin. But it is also the target of
+          chemicals our bodies produce called endorphins. It is poorly understood why morphine is so addictive,
+          but endorphins are not. One difference between how these drugs act on µOR is that morphine causes the receptor
+          to be taken up into the cell very quickly after it interacts with the drug. I discovered that the slower this uptake
+          occurs, the more signaling is produced from the MAPK signaling pathway. This signaling difference might
+          contribute to the ways in which endogenous opioids have different effects comapred to exogenous ones.
 
 education:
     - degree: PhD in Biological Sciences

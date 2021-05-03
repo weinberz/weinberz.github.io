@@ -16,7 +16,7 @@ sidebar:
     website:
     linkedin:
     github: weinberz
-    twitter:
+    twitter: weinberz
     googlescholar: 7CpvunwAAAAJ
 
     interests:
@@ -48,6 +48,15 @@ research:
       G protein-coupled receptors.
 
     projects:
+      - title: Sentinel cells for genetic encoded responses to pathogens
+        graphic: sarsnotch.png
+        summary: |
+          Current therapies targeting viral and microbial pathogens rely on systemically administered treatments
+          with profound potential for off-target effects. With our 'sentinel cells', we propose a model that has shown
+          considerable target in treating blood cancers, where engineered cells can sense and respond to pathogenic
+          threats locally and intelligently. Using SARS-CoV-2 as a model pathogen, we demonstrate that sentinel cells can
+          detect infected cells, and respond with customized genetic programs. These sentinel cells have potential as both
+          antipathogen therapies as well as in novel drug and therapeutic development.
       - title: Endocytic dwell time of the µ opioid receptor regulates signaling in a ligand depdenent manner
         graphic: molpharm-summary.png
         summary: |

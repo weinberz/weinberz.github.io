@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Zara Weinberg
-    tagline: Cell Biologist/Microscopist
+    tagline: Cell Biologist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -35,7 +35,7 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-      Cell biologist studying how cells perceive their environemtns and respond with discrete behaviors. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
+      Cell biologist studying how cells perceive their environments and respond with discrete behaviors. Interests include pharmacology, automated quantitative image analysis, teaching, and mentoring.
 
 research:
     title: Research
